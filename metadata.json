@@ -1,0 +1,7 @@
+{
+  "name": "Laporan Kerusakan",
+  "description": "Aplikasi inspeksi dan pelaporan kerusakan barang operasional toko dengan pencatatan detail, foto bukti, status tracking, dan integrasi WhatsApp & PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
